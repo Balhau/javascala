@@ -9,7 +9,7 @@ The demo application consists of a *god* module in which we define the *God* tra
 We can see the expressiveness of the language in the following snippet
 
 ```scala
-    val deadPool = "Deadpool" is "a god" that "has"  attack 12 and "is" healer 5 and "has" health 13  rise
+    val deadPool = "Deadpool" is "a god" that "has"  attack 12 and "has" healer 5 and "has" health 13  rise
     val deadGirl = "Deadgirl" is "a goddess" that "has" attack 5 and "has" healer 2 and "has" health 10 rise
 
     (deadPool target(deadGirl)) -?> HollyWater
