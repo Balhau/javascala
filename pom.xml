@@ -13,7 +13,7 @@
     </dependencyManagement>
 
     <modules>
-        <module>dummies</module>
-        <module>dummiesjava</module>
+        <module>godsscala</module>
+        <module>godsjava</module>
     </modules>
 </project>

@@ -12,7 +12,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.ppb.java.dummy</groupId>
-  <artifactId>dummiesjava</artifactId>
+  <artifactId>godsjava</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <name>dummiesjava</name>
@@ -34,7 +34,7 @@
     </dependency>
     <dependency>
       <groupId>com.ppb.scala</groupId>
-      <artifactId>dummies</artifactId>
+      <artifactId>godsscala</artifactId>
       <version>1.0-SNAPSHOT</version>
     </dependency>
   </dependencies>
