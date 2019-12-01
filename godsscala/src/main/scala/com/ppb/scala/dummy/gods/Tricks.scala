@@ -19,3 +19,7 @@ case object UpperSlam extends Trick {
 case object DarkMana extends Trick{
   override def heal() : Int = 5
 }
+
+case object ChainSawLeg extends Trick{
+  override def hit(): Int = 10
+}
